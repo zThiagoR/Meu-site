@@ -1,6 +1,6 @@
 # Meu projeto Pessoal
 
-![image](demo.png)
+![image](img/demo.png)
  ---
 
  Aqui será o meu projeto pessoal que incluirá meu contato, todos futuros projetos que irei adicionar e até mesmo sobre mim, e outros fatores serem implementados futuramente.
